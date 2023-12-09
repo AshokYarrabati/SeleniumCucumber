@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="OpenCart" parallel="tests" thread-count="6">
+    <test name="RegistrationOpencart">
+        <classes>
+            <class name="cucumberRunner.TestRunner"/>
+        </classes>
+    </test>
+
+</suite>
