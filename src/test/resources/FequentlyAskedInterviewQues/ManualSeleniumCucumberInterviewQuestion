@@ -1,3 +1,4 @@
+<--------Manual Testing Interview Questions----------------------------->
 Can u Give me an example of what is high severity and low severity
 Can u Give me an example of what is high priority and low severity
 can u explain STLC and SDLC life cycle
@@ -5,7 +6,142 @@ what is bug life cycle
 How do u assign severity to a defect
 How many TC's u have in Functional suite and how many TC u have in Regression suite
 Can u explain what is agile ceremonies
-Can u explain about your project
+Can u explain about your project a little bit, what are your roles and responsibilities in your project
+What defect you have found in your application recently
+Can u explain what are the Test data techniques
+Did your developer rejected the bug raised by you??
+Can u explain what is test plan document?? when do u create Test plan for your testing
+How frequent you would talk to developer on the issues
+What is the difference between Verification and Validation
+what is the difference between Functional testing and non functional testing
+WHat is the difference between Black box testing and white box testing
+WHat's the difference between test scenario and test case
+What are some attributes of a test case?
+What are some defect reporting attributes?
+Which test management tool you are using for logging the defects(JIRA)
+What is test coverage
+What are the different levels of testing?
+What is exploratory testing?
+What is the difference between regression and retesting?
+What is the difference between smoke and sanity testing?
+What is the requirement traceability matrix(RTM)?
+What are the entry criteria and EXit  in software testing?
+What is scrum?
+What are the different roles in scrum?
+What is a scrum meeting?
+Explain TDD (Test Driven Development)
+
+<---------------Automation Testing Interview questions-------------------------->
+What's the advantage of Automation testing over Manual testing
+Can we achieve 100% automation??
+Do u think Automated testing is better than manual testing(NO)
+How do you rate yourself in Java on a scale of 0-10
+Can u explain what are all oops concepts in Java and how implemented them in your automation
+When do u create a constructor and how many types of constructors we have in java
+Have u ever created a framework form scratch??
+Can u explain what are all the components you have in your framework
+How often you are executing/ automating test cases in your project
+how many test cases would you automate in a day
+Can u explain what is automation test plan??
+Can you implement the logic for the given problem(Coding questions)
+What is the difference between Interface and Abstract method
+Can we override Static method??
+Why Main method is static??
+What's the difference between static and non static
+What is the difference between String and String buffer and String builder
+What is String constant pool
+Can we make parent class as private??
+What's the difference between final, finally and final method
+Can we create Try finally block without catch block??
+How do you handle exception on java
+which version of java you are using in your automation
+He might ask you to correct some program mistakes by giving u a small program
+how do u restrict object creation for a class(by keeping class as abstract)
+how do u create your own defined/user defined exception
+What are different collections u have worked on so far, can u give an example where did u use arraylist/linked list
+Explain collection framework hierarchy
+What's the difference between ArrayList and Linked list
+Whats the differnce between Hashmap and linked hashmap
+What the difference between hashset and Treeset
+What's the purpose of set, can u explain set properties??
+How do you sort collection elements??
+
+------------Selenium interview questions----------------
+What are different exception u have faced your project, can u give example how you have handled no such element exception
+If there are 4 browsers opened, how do u navigate to specific window and perform operations on that window
+what are the selenium 4.0 features
+Whats the disadvantage of selenium
+How do u handled mouse hover actions
+How do you deal with webtables
+how do u solve staleelement reference exception
+How do u resolve elementclick intercepted exception
+how do u select value from dropdown when u don't have select tag
+How do u dela with alerts/pop ups in selenium
+whats the difference between find element and findelements
+whats the return type for getWindowHandles();
+how do u close all the browsers
+he might ask you to navigate to any website and ask you to write xpaths to check how good you are in Xpaths
+what's the difference between relative xpath and absolute xpath
+what are the different webdriver methods u know
+Can u explain selenium hierarchy??
+How do u take a screenshot of application when test case get failed
+What is the javascriptexecutor interface
+WHat are the different ways thru which selenium can perform click operation on a web element
+what are the different waits we have, can u explain??
+When do u get TImeout exception/ webdriver exception
+whats the reason behind Session not created exception
+whats the other way to go to specific URL apart from driver.get method
+what is webelement, can u elaborate??
+how do you deal with picking a date in calendar
+which method help u to deal with keyboard (using Keys class)
+if selenium click method failing to click on button, how do u dela with java Script executor
+Same is the case with, how do you send value to text box if send keys is not working
+How do u find number of anchor tags can write the code??
+If dropdown is having many values, how do you select specific value
+what is shadow element and how did you handle shadow element in your code
+how do you supply test data to your script, can u write the excel code??
+what are the different frameworks you have worked on, can u list down those??
+can u explain what is Page Object model and Page factory concepts??
+which methodology u use to initialize webelements, is it Page object model or page factory
+how to re execute failed test cases in TestNg
+Can u explain where did u different annotations in your automation framework??
+What's the difference between @BeforeTest and @Before mehtod
+How do u execute same scenario with different sets of data using @DatProvider annotation
+How do u supply paaremeter from testng.xml file
+If we want to execute set of test cases , how do u execute( using groups concept)
+do u know what is priority keyword in testng? can we keep priority as -ve
+how do u achieve parallel testing using testNg
+how do you trigger testng.xml file from pom.xml file??
+How do created webdriver object and made available across multile pages
+WHich reports u r using to see the test results?? is it Extent report/ allure report??
+What are the automation challenges u have faced in your automation
+Did u develop any utilites/ reusable methods in yor framework??
+Can you write the code to connect with Database??
+What invocation count and thread count
+have u ever achieved cross browser testing(executing the same tests on different browsers)
+Can u explain your roles and responsibilities in your project
+
+--------------Cucumber interview questions--------------------------
+Can u define what is BDD, cucumber, how BDD is different from TDD
+What are three components of cucumber framework(Feature files creation and Step definition and Runner)
+whats the difference between Scenario and scenario outline
+how to execute only set of scenarios from feature file
+what is hooks and Background and what's the difference??
+what is dataTable object in step definition
+what are the different cucumber option u know, can u explain each keyword
+how do execute you feature files parallel (refer selenium cucumber framework)
+can u write step definition code for handling parameterization
+what are the different exception u have faced in your cucumber??
+how dod u trigger your project from command prompt
+Have u ever worked on Jenkins?? if yes how did u integrate your automation framework in jenkins
+What is hybrid framework, have u ever worked on hybrid framework
+
+
+
+
+
+
+
 
 
 
